@@ -41,7 +41,7 @@
     "jsonwebtoken": "^8.5.1",
     "minimist": "^1.2.3",
     "moment": "^2.24.0",
-    "mongoose": "^4.13.18",
+    "mongoose": "^4.13.21",
     "morgan": "^1.9.1",
     "pug": "^2.0.4",
     "ts-node": "^3.3.0",
